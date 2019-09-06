@@ -1,5 +1,5 @@
 # CPSC1012-SB
-# Supplemental Learning - XXXXXX
+# Supplemental Learning - Spencer Boles
 ## CPSC1012 - Programming Fundamentals
 
 This is the repository (collection of files) that has been used for XXXXX' 
@@ -20,5 +20,5 @@ Supplemental Learning Sessions that are held at NAIT for the Fall 2019 semester.
 
 ### CONTACT
 
-Email: XXXXXXXX@nait.ca
+Email: SPENCERB@nait.ca
 
